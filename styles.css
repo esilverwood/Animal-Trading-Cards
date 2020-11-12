@@ -1,0 +1,40 @@
+.card{
+    width: 320px;
+    height: 675px;
+    border: 1px solid rgb(220,220,220);
+    box-shadow: 6px 6px rgb(235,235,235);
+  }
+
+h3{
+    margin-left: 10px;
+  }
+
+.image{
+    display: block;
+    padding: 0.5em;
+    }
+
+.fact{
+    font-style: italic;
+  }
+
+
+.text-box{
+    width: 300px;
+    height: 375px;
+    border: 1px solid rgb(220,220,220);
+    margin-left: 7px;
+}
+
+.text{
+    margin: 20px
+}
+
+span{
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+    margin-left: -40px;
+}
